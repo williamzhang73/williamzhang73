@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
+### <u>About me</u>
 Hello everyone! 👋 My name is William Zhang. I earned my bachelor’s degree in Computer Science in China and also completed some master’s courses at CSUF. Recently, I graduated from the Learning Fuze bootcamp. I’m passionate about learning new things and using my skills to build awesome apps. Let’s connect and create something great together! 🚀😊
 
 ### My skills 
+My skills are TypeScript, React, HTML, CSS, Express.js, Java, Tailwindcss, Node.js, PostgressSQL, and I am willing to learn more interesting skills.
+
 ### Let's connect！
